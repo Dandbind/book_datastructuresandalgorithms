@@ -1,0 +1,9 @@
+{
+  "name": "data-structures-java-script-node-js",
+  "version": "0.0.0",
+  "description": "DataStructuresJavaScriptNodeJs",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

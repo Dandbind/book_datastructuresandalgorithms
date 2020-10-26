@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj",
+        "projectName": "DataStructuresFSharp",
+        "projectPath": "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj",
+        "packagesPath": "C:\\Users\\bansa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bansa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
