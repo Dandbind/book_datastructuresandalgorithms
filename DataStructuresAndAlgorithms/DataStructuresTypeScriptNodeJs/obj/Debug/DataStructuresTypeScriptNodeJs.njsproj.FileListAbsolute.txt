@@ -1,2 +1,4 @@
 C:\Users\bansa\source\Github\Dandbind\ebook_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresTypeScriptNodeJs\obj\Debug\DataStructuresTypeScriptNodeJs.njsproj.CoreCompileInputs.cache
 C:\Users\bansa\source\Github\Dandbind\ebook_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresTypeScriptNodeJs\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\bansa\source\Github\Dandbind\book_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresTypeScriptNodeJs\obj\Debug\DataStructuresTypeScriptNodeJs.njsproj.CoreCompileInputs.cache
+C:\Users\bansa\source\Github\Dandbind\book_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresTypeScriptNodeJs\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DjZX/Jdsp+070T4Mx5UJmBOmFaoqqE5hMgmIQfZ+/HtrZXc76YjB4BSKYTxPMJhhgFdcPA4cNACmJ5adBjRUgQ==",
+  "dgSpecHash": "XaOuPfS+po97xdbhXXrTOEDekrkhANchJWIWKNPSTA038oCzbl8IPh9SedQm/yJkf3PBc5IYxp/0pj4/Dtnyng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj",
+  "projectFilePath": "C:\\Users\\bansa\\source\\Github\\Dandbind\\book_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\bansa\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
   ],

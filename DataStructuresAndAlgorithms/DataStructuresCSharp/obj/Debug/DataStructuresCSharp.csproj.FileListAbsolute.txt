@@ -5,3 +5,10 @@ C:\Users\bansa\source\Github\Dandbind\ebook_datastructuresandalgorithms\DataStru
 C:\Users\bansa\source\Github\Dandbind\ebook_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresCSharp\obj\Debug\DataStructuresCSharp.csproj.CoreCompileInputs.cache
 C:\Users\bansa\source\Github\Dandbind\ebook_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresCSharp\obj\Debug\DataStructuresCSharp.exe
 C:\Users\bansa\source\Github\Dandbind\ebook_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresCSharp\obj\Debug\DataStructuresCSharp.pdb
+C:\Users\bansa\source\Github\Dandbind\book_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresCSharp\bin\Debug\DataStructuresCSharp.exe.config
+C:\Users\bansa\source\Github\Dandbind\book_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresCSharp\bin\Debug\DataStructuresCSharp.exe
+C:\Users\bansa\source\Github\Dandbind\book_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresCSharp\bin\Debug\DataStructuresCSharp.pdb
+C:\Users\bansa\source\Github\Dandbind\book_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresCSharp\obj\Debug\DataStructuresCSharp.csprojAssemblyReference.cache
+C:\Users\bansa\source\Github\Dandbind\book_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresCSharp\obj\Debug\DataStructuresCSharp.csproj.CoreCompileInputs.cache
+C:\Users\bansa\source\Github\Dandbind\book_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresCSharp\obj\Debug\DataStructuresCSharp.exe
+C:\Users\bansa\source\Github\Dandbind\book_datastructuresandalgorithms\DataStructuresAndAlgorithms\DataStructuresCSharp\obj\Debug\DataStructuresCSharp.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj": {}
+    "C:\\Users\\bansa\\source\\Github\\Dandbind\\book_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj": {
+    "C:\\Users\\bansa\\source\\Github\\Dandbind\\book_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj",
+        "projectUniqueName": "C:\\Users\\bansa\\source\\Github\\Dandbind\\book_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj",
         "projectName": "DataStructuresFSharp",
-        "projectPath": "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj",
+        "projectPath": "C:\\Users\\bansa\\source\\Github\\Dandbind\\book_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\DataStructuresFSharp.fsproj",
         "packagesPath": "C:\\Users\\bansa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bansa\\source\\Github\\Dandbind\\ebook_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\obj\\",
+        "outputPath": "C:\\Users\\bansa\\source\\Github\\Dandbind\\book_datastructuresandalgorithms\\DataStructuresAndAlgorithms\\DataStructuresFSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
